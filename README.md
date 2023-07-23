@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 <h1 align="center">Hi 👋, I'm Yash Parashar</h1>
 <h3 align="center">Full-stack developer building robust and scalable applications</h3>
 
